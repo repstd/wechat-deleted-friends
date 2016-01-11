@@ -1,0 +1,14 @@
+{
+    "name": "wechat-deleted-friends",
+    "description": "Too to check delted wechat friends",
+    "keywords": [
+        "wechat",
+        "deleted"
+    ],
+    "require": {
+    	"nategood/httpful": "*"
+    },
+    "autoload": {
+        "psr-4": {"wdf\\": ""}
+    }
+}

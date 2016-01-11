@@ -1,0 +1,637 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Account	.\wechat\Account.php	/^class Account{$/;"	c
+BaseRequest	.\wdf.php	/^        $BaseRequest = array($/;"	v
+BaseRequest	.\wdf.php	/^        $BaseRequest=static::getBaseRequest($account,$loginresponse);$/;"	v
+BaseResponse	.\wdf.php	/^        $BaseResponse='BaseResponse';$/;"	v
+BaseResponse	.\wechat\BaseResponse.php	/^class BaseResponse {$/;"	c
+Bootstrap	.\vendor\nategood\httpful\src\Httpful\Bootstrap.php	/^class Bootstrap$/;"	c
+CURLPROXY_SOCKS4	.\vendor\nategood\httpful\src\Httpful\Proxy.php	/^    define('CURLPROXY_SOCKS4', 4);$/;"	d
+ClassLoader	.\vendor\composer\ClassLoader.php	/^class ClassLoader$/;"	c
+Client	.\web\Client.php	/^class Client{$/;"	c
+ComposerAutoloaderInita13d3e7c5f64b366b2c2755e18450e5f	.\vendor\composer\autoload_real.php	/^class ComposerAutoloaderInita13d3e7c5f64b366b2c2755e18450e5f$/;"	c
+ConnectionErrorException	.\vendor\nategood\httpful\src\Httpful\Exception\ConnectionErrorException.php	/^class ConnectionErrorException extends \\Exception $/;"	c
+CsvHandler	.\vendor\nategood\httpful\src\Httpful\Handlers\CsvHandler.php	/^class CsvHandler extends MimeHandlerAdapter$/;"	c
+DemoMimeHandler	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^class DemoMimeHandler extends \\Httpful\\Handlers\\MimeHandlerAdapter$/;"	c
+DeviceID	.\wechat\BaseResponse.php	/^    public $DeviceID;$/;"	v
+FormHandler	.\vendor\nategood\httpful\src\Httpful\Handlers\FormHandler.php	/^class FormHandler extends MimeHandlerAdapter $/;"	c
+Headers	.\vendor\nategood\httpful\src\Httpful\Response\Headers.php	/^final class Headers implements \\ArrayAccess, \\Countable {$/;"	c
+Http	.\vendor\nategood\httpful\src\Httpful\Http.php	/^class Http$/;"	c
+HttpRequest	.\web\HttpRequest.php	/^class HttpRequest$/;"	c
+Httpful	.\vendor\nategood\httpful\src\Httpful\Httpful.php	/^class Httpful {$/;"	c
+HttpfulTest	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^class HttpfulTest extends \\PHPUnit_Framework_TestCase$/;"	c
+JsonHandler	.\vendor\nategood\httpful\src\Httpful\Handlers\JsonHandler.php	/^class JsonHandler extends MimeHandlerAdapter$/;"	c
+LoginResponse	.\wechat\LoginResponse.php	/^class LoginResponse {$/;"	c
+MemberCount	.\wdf.php	/^        $MemberCount=sizeof($namelist);$/;"	v
+MemberList	.\wdf.php	/^        $MemberList=array();$/;"	v
+Mime	.\vendor\nategood\httpful\src\Httpful\Mime.php	/^class Mime$/;"	c
+MimeHandlerAdapter	.\vendor\nategood\httpful\src\Httpful\Handlers\MimeHandlerAdapter.php	/^class MimeHandlerAdapter$/;"	c
+Proxy	.\vendor\nategood\httpful\src\Httpful\Proxy.php	/^class Proxy$/;"	c
+Request	.\vendor\nategood\httpful\src\Httpful\Request.php	/^class Request$/;"	c
+Response	.\vendor\nategood\httpful\src\Httpful\Response.php	/^class Response$/;"	c
+Ret	.\wdf.php	/^        $Ret='Ret';$/;"	v
+SIGKILL	.\vendor\nategood\httpful\tests\bootstrap-server.php	/^    define('SIGKILL', 9);$/;"	d
+Sid	.\wechat\BaseResponse.php	/^    public $Sid;$/;"	v
+SimpleCsvHandler	.\vendor\nategood\httpful\examples\override.php	/^class SimpleCsvHandler extends \\Httpful\\Handlers\\MimeHandlerAdapter$/;"	c
+Skey	.\wechat\BaseResponse.php	/^    public $Skey;$/;"	v
+TEST_SERVER	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^define('TEST_SERVER', WEB_SERVER_HOST . ':' . WEB_SERVER_PORT);$/;"	d
+Uin	.\wechat\BaseResponse.php	/^    public $Uin;$/;"	v
+WITHOUT_SERVER	.\vendor\nategood\httpful\tests\bootstrap-server.php	/^    define('WITHOUT_SERVER', true);$/;"	d
+XHtmlHandler	.\vendor\nategood\httpful\src\Httpful\Handlers\XHtmlHandler.php	/^class XHtmlHandler extends MimeHandlerAdapter$/;"	c
+XmlHandler	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^class XmlHandler extends MimeHandlerAdapter$/;"	c
+__call	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function __call($method, $args)$/;"	f
+__construct	.\vendor\nategood\httpful\src\Httpful\Handlers\MimeHandlerAdapter.php	/^    public function __construct(array $args = array())$/;"	f
+__construct	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^    public function __construct(array $conf = array())$/;"	f
+__construct	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    private function __construct($attrs = null)$/;"	f
+__construct	.\vendor\nategood\httpful\src\Httpful\Response.php	/^    public function __construct($body, $headers, Request $request, array $meta_data = array())$/;"	f
+__construct	.\vendor\nategood\httpful\src\Httpful\Response\Headers.php	/^    private function __construct($headers)$/;"	f
+__construct	.\web\Client.php	/^    public function __construct(Array $args) {$/;"	f
+__construct	.\web\HttpRequest.php	/^    function __construct($url, $method) {$/;"	f
+__toString	.\vendor\nategood\httpful\src\Httpful\Response.php	/^    public function __toString()$/;"	f
+_autoload	.\vendor\nategood\httpful\src\Httpful\Bootstrap.php	/^    private static function _autoload($base, $classname)$/;"	f
+_ch	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->_ch = $ch;$/;"	v
+_curlPrep	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function _curlPrep()$/;"	f
+_determineLength	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function _determineLength($str)$/;"	f
+_error	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    private function _error($error)$/;"	f
+_future_serializeArrayAsXml	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^    private function _future_serializeArrayAsXml($value, &$parent, &$dom)$/;"	f
+_future_serializeAsXml	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^    private function _future_serializeAsXml($value, $node = null, $dom = null)$/;"	f
+_future_serializeObjectAsXml	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^    private function _future_serializeObjectAsXml($value, &$parent, &$dom)$/;"	f
+_initializeDefaults	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    private static function _initializeDefaults()$/;"	f
+_interpretHeaders	.\vendor\nategood\httpful\src\Httpful\Response.php	/^    public function _interpretHeaders()$/;"	f
+_options	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    \/\/ private $_options = array($/;"	v
+_parse	.\vendor\nategood\httpful\src\Httpful\Response.php	/^    public function _parse($body)$/;"	f
+_parseCode	.\vendor\nategood\httpful\src\Httpful\Response.php	/^    public function _parseCode($headers)$/;"	f
+_parseHeaders	.\vendor\nategood\httpful\src\Httpful\Response.php	/^    public function _parseHeaders($headers)$/;"	f
+_serializePayload	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    private function _serializePayload($payload)$/;"	f
+_setDefaults	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    private function _setDefaults()$/;"	f
+_template	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    private static $_template;$/;"	v
+accept	.\vendor\nategood\httpful\src\Httpful\Request.php	/^            $accept = 'Accept: *\/*; q=0.5, text\/plain; q=0.8, text\/html;level=3;';$/;"	v
+accept	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $accept = 'application\/api-1.0+json';$/;"	v
+account	.\wdf.php	/^            $account=new Account();$/;"	v
+add	.\vendor\composer\ClassLoader.php	/^    public function add($prefix, $paths, $prepend = false)$/;"	f
+addClassMap	.\vendor\composer\ClassLoader.php	/^    public function addClassMap(array $classMap)$/;"	f
+addHeader	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function addHeader($header_name, $value)$/;"	f
+addHeaders	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function addHeaders(array $headers)$/;"	f
+addOnCurlOption	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function addOnCurlOption($curlopt, $curloptval)$/;"	f
+addPostFields	.\web\HttpRequest.php	/^    function addPostFields($post_fields) {$/;"	f
+addPsr4	.\vendor\composer\ClassLoader.php	/^    public function addPsr4($prefix, $paths, $prepend = false)$/;"	f
+additional_curl_opts	.\vendor\nategood\httpful\src\Httpful\Request.php	/^           $additional_curl_opts    = array(),$/;"	v
+alwaysSerializePayload	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function alwaysSerializePayload()$/;"	f
+api	.\wdf.php	/^        $api='createChatRoom';$/;"	v
+api	.\wdf.php	/^        $api='webexinit';$/;"	v
+api	.\wdf.php	/^        $api='webwxgetcontact';$/;"	v
+args	.\vendor\nategood\httpful\src\Httpful\Handlers\MimeHandlerAdapter.php	/^    public function __construct(array $args = array())$/;"	v
+arrNode	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^            $arrNode = $dom->createElement('array');$/;"	v
+attach	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function attach($files)$/;"	f
+attr	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        foreach ($attrs as $attr => $value) {$/;"	v
+authenticateWith	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function authenticateWith($username, $password)$/;"	f
+authenticateWithBasic	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function authenticateWithBasic($username, $password)$/;"	f
+authenticateWithCert	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function authenticateWithCert($cert, $key, $passphrase = null, $encoding = 'PEM')$/;"	f
+authenticateWithDigest	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function authenticateWithDigest($username, $password)$/;"	f
+authenticateWithNTLM	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function authenticateWithNTLM($username, $password)$/;"	f
+autoParse	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function autoParse($auto_parse = true)$/;"	f
+auto_parse	.\vendor\nategood\httpful\src\Httpful\Request.php	/^           $auto_parse              = true,$/;"	v
+auto_parse	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->auto_parse = $auto_parse;$/;"	v
+autoload	.\vendor\nategood\httpful\src\Httpful\Bootstrap.php	/^    public static function autoload($classname)$/;"	f
+baseDir	.\vendor\composer\autoload_classmap.php	/^$baseDir = dirname($vendorDir);$/;"	v
+baseDir	.\vendor\composer\autoload_namespaces.php	/^$baseDir = dirname($vendorDir);$/;"	v
+baseDir	.\vendor\composer\autoload_psr4.php	/^$baseDir = dirname($vendorDir);$/;"	v
+base_url	.\wechat\Account.php	/^    public $base_url;$/;"	v
+basicAuth	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function basicAuth($username, $password)$/;"	f
+beforeSend	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function beforeSend(\\Closure $callback)$/;"	f
+bodies	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $bodies = array($/;"	v
+body	.\vendor\nategood\httpful\src\Httpful\Handlers\JsonHandler.php	/^        $body = $this->stripBom($body);$/;"	v
+body	.\vendor\nategood\httpful\src\Httpful\Handlers\MimeHandlerAdapter.php	/^            $body = substr($body,2);$/;"	v
+body	.\vendor\nategood\httpful\src\Httpful\Handlers\MimeHandlerAdapter.php	/^            $body = substr($body,3);$/;"	v
+body	.\vendor\nategood\httpful\src\Httpful\Handlers\MimeHandlerAdapter.php	/^            $body = substr($body,4);$/;"	v
+body	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^        $body = $this->stripBom($body);$/;"	v
+body	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $body = array_pop($response);$/;"	v
+body	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function body($payload, $mimeType = null)$/;"	f
+body	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $this->body         = $this->_parse($body);$/;"	v
+body	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $body = 'A string';$/;"	v
+body	.\wdf.php	/^        $body=$response->_parse($response->body);$/;"	v
+bools	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $bools = $sxe->xpath('\/stdClass\/boolProp');$/;"	v
+build	.\web\HttpRequest.php	/^    function build() {$/;"	f
+buildResponse	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function buildResponse($result) {$/;"	f
+buildUserAgent	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function buildUserAgent()$/;"	f
+canHaveBody	.\vendor\nategood\httpful\src\Httpful\Http.php	/^    public static function canHaveBody()$/;"	f
+caught	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^                    $caught = true;$/;"	v
+caught	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $caught = false;$/;"	v
+ch	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $ch = curl_init($this->uri);$/;"	v
+changed	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^            $changed = true;$/;"	v
+changed	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $changed = false;$/;"	v
+charset	.\vendor\nategood\httpful\src\Httpful\Response.php	/^            $this->charset = substr($this->content_type, 5) === 'text\/' ? 'iso-8859-1' : 'utf-8';$/;"	v
+class	.\vendor\composer\ClassLoader.php	/^            $class = substr($class, 1);$/;"	v
+classMap	.\vendor\composer\ClassLoader.php	/^            $this->classMap = $classMap;$/;"	v
+classMap	.\vendor\composer\ClassLoader.php	/^            $this->classMap = array_merge($this->classMap, $classMap);$/;"	v
+classMap	.\vendor\composer\ClassLoader.php	/^    private $classMap = array();$/;"	v
+classMap	.\vendor\composer\autoload_real.php	/^        $classMap = require __DIR__ . '\/autoload_classmap.php';$/;"	v
+classMapAuthoritative	.\vendor\composer\ClassLoader.php	/^        $this->classMapAuthoritative = $classMapAuthoritative;$/;"	v
+classMapAuthoritative	.\vendor\composer\ClassLoader.php	/^    private $classMapAuthoritative = false;$/;"	v
+clientSideCert	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function clientSideCert($cert, $key, $passphrase = null, $encoding = 'PEM')$/;"	f
+client_cert	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->client_cert          = $cert;$/;"	v
+client_encoding	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->client_encoding      = $encoding;$/;"	v
+client_key	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->client_key           = $key;$/;"	v
+client_passphrase	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->client_passphrase    = $passphrase;$/;"	v
+code	.\vendor\nategood\httpful\src\Httpful\Response.php	/^           $code = 0,$/;"	v
+code	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $this->code         = $this->_parseCode($headers);$/;"	v
+code	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $code = $response->_parseCode("HTTP\/1.1 406 Not Acceptable\\r\\n");$/;"	v
+command	.\vendor\nategood\httpful\tests\bootstrap-server.php	/^    $command = sprintf('php -S %s:%d -t %s >.\/server.log 2>&1 & echo $!', WEB_SERVER_HOST, WEB_SERVER_PORT, WEB_SERVER_DOCROOT);$/;"	v
+conf	.\vendor\nategood\httpful\examples\override.php	/^$conf = array('namespace' => 'http:\/\/example.com');$/;"	v
+conf	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^    public function __construct(array $conf = array())$/;"	v
+conf	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $conf = array('namespace' => 'http:\/\/example.com');$/;"	v
+contentType	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function contentType($mime)$/;"	f
+content_type	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->content_type  = Mime::getFullMime($mime);$/;"	v
+content_type	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->content_type = $this->expected_type = Mime::getFullMime($mime);$/;"	v
+content_type	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $content_type = explode(';', $content_type);$/;"	v
+content_type	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $content_type = isset($this->headers['Content-Type']) ? $this->headers['Content-Type'] : '';$/;"	v
+content_type	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $this->content_type = $content_type[0];$/;"	v
+context	.\web\Client.php	/^    private $context;$/;"	v
+count	.\vendor\nategood\httpful\src\Httpful\Response\Headers.php	/^    public function count()$/;"	f
+createChatRoom	.\wdf.php	/^    public static function createChatRoom(array $namelist,Account $account,LoginResponse $loginresponse) {$/;"	f
+curl	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $curl = \\curl_version();$/;"	v
+curlErrorString	.\vendor\nategood\httpful\src\Httpful\Request.php	/^                $curlErrorString = curl_error($this->_ch);$/;"	v
+curlopt	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        foreach ($this->additional_curl_opts as $curlopt => $curlval) {$/;"	v
+d	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function d($attr)$/;"	f
+data	.\vendor\nategood\httpful\src\Httpful\Handlers\CsvHandler.php	/^        $data = stream_get_contents($fp);$/;"	v
+decode_as_array	.\vendor\nategood\httpful\src\Httpful\Handlers\JsonHandler.php	/^        $this->decode_as_array = !!(array_key_exists('decode_as_array', $args) ? $args['decode_as_array'] : false);$/;"	v
+decode_as_array	.\vendor\nategood\httpful\src\Httpful\Handlers\JsonHandler.php	/^    private $decode_as_array = false;$/;"	v
+default	.\vendor\nategood\httpful\src\Httpful\Httpful.php	/^    private static $default = null;$/;"	v
+delete	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function delete($uri, $mime = null)$/;"	f
+deviceId	.\wdf.php	/^        $deviceId = 'e000000000000000';$/;"	v
+dfs	.\wdf.php	/^    private static function dfs(\\DOMNode &$node,LoginResponse &$loginresponse) {$/;"	f
+digestAuth	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function digestAuth($username, $password)$/;"	f
+doNotFollowRedirects	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function doNotFollowRedirects()$/;"	f
+doc	.\wdf.php	/^        $doc=new \\DOMDocument();$/;"	v
+does	.\vendor\composer\ClassLoader.php	/^            \/\/ Remember that this class does not exist.$/;"	c
+dom	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^            $dom = new \\DOMDocument;$/;"	v
+el	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^                $el = $dom->createElement($pr->getName());$/;"	v
+el	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^            $el = $dom->createElement($n);$/;"	v
+end	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $end = strpos($headers, "\\r\\n");$/;"	v
+end	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        if ($end === false) $end = strlen($headers);$/;"	v
+error_callback	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->error_callback = $callback;$/;"	v
+expected_type	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->expected_type = Mime::getFullMime($mime);$/;"	v
+expects	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function expects($mime)$/;"	f
+expectsType	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function expectsType($mime)$/;"	f
+fallbackDirsPsr0	.\vendor\composer\ClassLoader.php	/^                $this->fallbackDirsPsr0 = array_merge($/;"	v
+fallbackDirsPsr0	.\vendor\composer\ClassLoader.php	/^            $this->fallbackDirsPsr0 = (array) $paths;$/;"	v
+fallbackDirsPsr0	.\vendor\composer\ClassLoader.php	/^    private $fallbackDirsPsr0 = array();$/;"	v
+fallbackDirsPsr4	.\vendor\composer\ClassLoader.php	/^                $this->fallbackDirsPsr4 = array_merge($/;"	v
+fallbackDirsPsr4	.\vendor\composer\ClassLoader.php	/^            $this->fallbackDirsPsr4 = (array) $paths;$/;"	v
+fallbackDirsPsr4	.\vendor\composer\ClassLoader.php	/^    private $fallbackDirsPsr4 = array();$/;"	v
+file	.\vendor\composer\ClassLoader.php	/^            $file = $this->findFileWithExtension($class, '.hh');$/;"	v
+file	.\vendor\composer\ClassLoader.php	/^        $file = $this->findFileWithExtension($class, '.php');$/;"	v
+file	.\vendor\composer\ClassLoader.php	/^        if ($this->useIncludePath && $file = stream_resolve_include_path($logicalPathPsr0)) {$/;"	v
+file	.\wdf.php	/^        $file=fopen(__DIR__.'\/data\/'.$api.'.json','w');$/;"	v
+filename	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $filename = $testsPath . DIRECTORY_SEPARATOR . 'test_image.jpg';$/;"	v
+files	.\vendor\composer\ClassLoader.php	/^     * Turns on searching the include path for class files.$/;"	c
+findFile	.\vendor\composer\ClassLoader.php	/^    public function findFile($class)$/;"	f
+findFileWithExtension	.\vendor\composer\ClassLoader.php	/^    private function findFileWithExtension($class, $ext)$/;"	f
+finfo	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $finfo = finfo_open(FILEINFO_MIME_TYPE);$/;"	v
+first	.\vendor\composer\ClassLoader.php	/^        $first = $class[0];$/;"	v
+first	.\vendor\composer\ClassLoader.php	/^        $first = $prefix[0];$/;"	v
+followRedirects	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function followRedirects($follow = true)$/;"	f
+follow_redirects	.\vendor\nategood\httpful\src\Httpful\Request.php	/^           $follow_redirects        = false,$/;"	v
+follow_redirects	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->follow_redirects = (bool) $follow;$/;"	v
+for	.\vendor\nategood\httpful\src\Httpful\Request.php	/^ * Clean, simple class for sending HTTP requests$/;"	c
+fp	.\vendor\nategood\httpful\src\Httpful\Handlers\CsvHandler.php	/^        $fp = fopen('data:\/\/text\/plain;base64,' . base64_encode($body), 'r');$/;"	v
+fp	.\vendor\nategood\httpful\src\Httpful\Handlers\CsvHandler.php	/^        $fp = fopen('php:\/\/temp\/maxmemory:'. (6*1024*1024), 'r+');$/;"	v
+from	.\vendor\nategood\httpful\src\Httpful\Request.php	/^     * class from a template Request object.  Simply construct a$/;"	c
+fromString	.\vendor\nategood\httpful\src\Httpful\Response\Headers.php	/^    public static function fromString($string)$/;"	f
+get	.\vendor\nategood\httpful\src\Httpful\Httpful.php	/^    public static function get($mimeType = null)$/;"	f
+get	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function get($uri, $mime = null)$/;"	f
+getBaseRequest	.\wdf.php	/^    private static function getBaseRequest(&$accoumt,&$loginresponse) {$/;"	f
+getClassMap	.\vendor\composer\ClassLoader.php	/^    public function getClassMap()$/;"	f
+getFallbackDirs	.\vendor\composer\ClassLoader.php	/^    public function getFallbackDirs()$/;"	f
+getFallbackDirsPsr4	.\vendor\composer\ClassLoader.php	/^    public function getFallbackDirsPsr4()$/;"	f
+getFullMime	.\vendor\nategood\httpful\src\Httpful\Mime.php	/^    public static function getFullMime($short_name)$/;"	f
+getHttpfulMethod	.\web\HttpRequest.php	/^    private function getHttpfulMethod() {$/;"	f
+getLoader	.\vendor\composer\autoload_real.php	/^    public static function getLoader()$/;"	f
+getPrefixes	.\vendor\composer\ClassLoader.php	/^    public function getPrefixes()$/;"	f
+getPrefixesPsr4	.\vendor\composer\ClassLoader.php	/^    public function getPrefixesPsr4()$/;"	f
+getQuick	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function getQuick($uri, $mime = null)$/;"	f
+getResponse	.\web\HttpRequest.php	/^    function getResponse() {$/;"	f
+getResponseCode	.\web\HttpRequest.php	/^    function getResponseCode() {$/;"	f
+getUUID	.\wdf.php	/^    public static function getUUID(Account &$acc) {$/;"	f
+getUseIncludePath	.\vendor\composer\ClassLoader.php	/^    public function getUseIncludePath()$/;"	f
+handler	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $handler = new JsonHandler();$/;"	v
+handlers	.\vendor\nategood\httpful\src\Httpful\Bootstrap.php	/^        $handlers = array($/;"	v
+hasBasicAuth	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function hasBasicAuth()$/;"	f
+hasBeenInitialized	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function hasBeenInitialized()$/;"	f
+hasBody	.\vendor\nategood\httpful\src\Httpful\Response.php	/^    public function hasBody()$/;"	f
+hasClientSideCert	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function hasClientSideCert()$/;"	f
+hasDigestAuth	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function hasDigestAuth()$/;"	f
+hasErrors	.\vendor\nategood\httpful\src\Httpful\Response.php	/^    public function hasErrors()$/;"	f
+hasParserRegistered	.\vendor\nategood\httpful\src\Httpful\Httpful.php	/^    public static function hasParserRegistered($mimeType)$/;"	f
+hasProxy	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function hasProxy()$/;"	f
+hasTimeout	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function hasTimeout()$/;"	f
+head	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function head($uri)$/;"	f
+header	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $header = ucwords(implode('-', preg_split('\/([A-Z][^A-Z]*)\/', $method, -1, PREG_SPLIT_DELIM_CAPTURE | PREG_SPLIT_NO_EMPTY)));$/;"	v
+header	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        foreach ($headers as $header => $value) {$/;"	v
+header	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        foreach ($this->headers as $header => $value) {$/;"	v
+header_name	.\web\HttpRequest.php	/^        foreach($this->headers as $header_name=>$value)$/;"	v
+headers	.\vendor\nategood\httpful\src\Httpful\Request.php	/^           $headers                 = array(),$/;"	v
+headers	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $headers = array();$/;"	v
+headers	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $headers = array_pop($response);$/;"	v
+headers	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $headers = preg_split("\/(\\r|\\n)+\/", $headers, -1, \\PREG_SPLIT_NO_EMPTY);$/;"	v
+headers	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $this->headers      = Response\\Headers::fromString($headers);$/;"	v
+headers	.\vendor\nategood\httpful\src\Httpful\Response\Headers.php	/^        $headers = array();$/;"	v
+headers	.\vendor\nategood\httpful\src\Httpful\Response\Headers.php	/^        $this->headers = $headers;$/;"	v
+headers	.\vendor\nategood\httpful\src\Httpful\Response\Headers.php	/^    private $headers;$/;"	v
+headers	.\wdf.php	/^        $headers=array('ContentType'=>'application\/json;charset=UTF-8');$/;"	v
+headers	.\web\HttpRequest.php	/^        $this->headers = $headers;$/;"	v
+headers	.\web\HttpRequest.php	/^        $this->headers = array();$/;"	v
+headers	.\web\HttpRequest.php	/^    private $headers;$/;"	v
+host	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $host = (isset($url['host']) ? $url['host'] : 'localhost').(isset($url['port']) ? ':'.$url['port'] : '');$/;"	v
+http_request	.\web\HttpRequest.php	/^            $this->http_request=$this->http_request->addHeader($header_name,$value);$/;"	v
+http_request	.\web\HttpRequest.php	/^            $this->http_request=$this->http_request->body($this->post_fields);$/;"	v
+http_request	.\web\HttpRequest.php	/^        $this->http_request=$this->http_request->uri($this->url);$/;"	v
+http_request	.\web\HttpRequest.php	/^        $this->http_request=Request::init($this->getHttpfulMethod());$/;"	v
+http_request	.\web\HttpRequest.php	/^    private $http_request;$/;"	v
+http_response	.\web\HttpRequest.php	/^        $this->http_response=$this->http_request->send();$/;"	v
+http_response	.\web\HttpRequest.php	/^    private $http_response;$/;"	v
+i	.\vendor\nategood\httpful\src\Httpful\Handlers\CsvHandler.php	/^        $i = 0;$/;"	v
+idempotentMethods	.\vendor\nategood\httpful\src\Httpful\Http.php	/^    public static function idempotentMethods()$/;"	f
+img	.\wdf.php	/^            $img=fopen($path,"w");$/;"	v
+img_path	.\wdf.php	/^            $img_path=static::showQRImage($account,'.\/data');$/;"	v
+in	.\vendor\composer\ClassLoader.php	/^ * In this example, if you try to use a class in the Symfony\\Component$/;"	c
+includeFile	.\vendor\composer\ClassLoader.php	/^function includeFile($file)$/;"	f
+index	.\wdf.php	/^            $index=strrpos($account->redirect_url,"\/");$/;"	v
+info	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $info = curl_getinfo($this->_ch);$/;"	v
+ini	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function ini(Request $template)$/;"	f
+init	.\vendor\nategood\httpful\src\Httpful\Bootstrap.php	/^    public static function init()$/;"	f
+init	.\vendor\nategood\httpful\src\Httpful\Handlers\JsonHandler.php	/^    public function init(array $args)$/;"	f
+init	.\vendor\nategood\httpful\src\Httpful\Handlers\MimeHandlerAdapter.php	/^    public function init(array $args)$/;"	f
+init	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function init($method = null, $mime = null)$/;"	f
+ints	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $ints = $sxe->xpath('\/stdClass\/arrayProp\/array\/k1\/myClass\/intProp');$/;"	v
+invoked	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^                    $invoked = true;$/;"	v
+invoked	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $invoked = false;$/;"	v
+is	.\vendor\composer\ClassLoader.php	/^     * Finds the path to the file where the class is defined.$/;"	c
+is	.\vendor\composer\ClassLoader.php	/^ * This class is loosely based on the Symfony UniversalClassLoader.$/;"	c
+isClassMapAuthoritative	.\vendor\composer\ClassLoader.php	/^    public function isClassMapAuthoritative()$/;"	f
+isIdempotent	.\vendor\nategood\httpful\src\Httpful\Http.php	/^    public static function isIdempotent($method)$/;"	f
+isNotIdempotent	.\vendor\nategood\httpful\src\Httpful\Http.php	/^    public static function isNotIdempotent($method)$/;"	f
+isSafeMethod	.\vendor\nategood\httpful\src\Httpful\Http.php	/^    public static function isSafeMethod($method)$/;"	f
+isUnsafeMethod	.\vendor\nategood\httpful\src\Httpful\Http.php	/^    public static function isUnsafeMethod($method)$/;"	f
+isUpload	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function isUpload()$/;"	f
+is_mime_personal	.\vendor\nategood\httpful\src\Httpful\Response.php	/^            $this->is_mime_personal = substr($sub_type, 0, 4) === 'prs.';$/;"	v
+is_mime_personal	.\vendor\nategood\httpful\src\Httpful\Response.php	/^           $is_mime_personal = false;$/;"	v
+is_mime_vendor_specific	.\vendor\nategood\httpful\src\Httpful\Response.php	/^            $this->is_mime_vendor_specific = substr($sub_type, 0, 4) === 'vnd.';$/;"	v
+is_mime_vendor_specific	.\vendor\nategood\httpful\src\Httpful\Response.php	/^           $is_mime_vendor_specific = false,$/;"	v
+isgrayscale	.\wechat\LoginResponse.php	/^    public $isgrayscale;$/;"	v
+json	.\wdf.php	/^        $json=$response->_parse($response->body);$/;"	v
+json	.\wdf.php	/^        $json=static::request($api,$url,$headers,$params,HttpRequest::METH_POST);$/;"	v
+json	.\wdf.php	/^        $json=static::request('webwxcreatechatroom',$params,HttpRequest::METH_POST,$account,$loginresponse);$/;"	v
+k	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^            foreach ($node as $k => $v){$/;"	v
+k	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^        foreach ($value as $k => &$v) {$/;"	v
+k	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        foreach (self::$_template as $k=>$v) {$/;"	v
+key	.\vendor\nategood\httpful\src\Httpful\Request.php	/^            $key = isset($this->payload_serializers[$this->content_type]) ? $this->content_type : '*';$/;"	v
+key	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        foreach ($files as $key => $file) {$/;"	v
+key	.\vendor\nategood\httpful\src\Httpful\Response.php	/^            $key = trim($key);$/;"	v
+length	.\vendor\composer\ClassLoader.php	/^            $length = strlen($prefix);$/;"	v
+libxml_opts	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^        $this->libxml_opts =    isset($conf['libxml_opts']) ? $conf['libxml_opts'] : 0;$/;"	v
+libxml_opts	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^    private $libxml_opts;$/;"	v
+lines	.\vendor\nategood\httpful\src\Httpful\Response\Headers.php	/^        $lines = preg_split("\/(\\r|\\n)+\/", $string, -1, PREG_SPLIT_NO_EMPTY);$/;"	v
+loadClass	.\vendor\composer\ClassLoader.php	/^    public function loadClass($class)$/;"	f
+loadClassLoader	.\vendor\composer\autoload_real.php	/^    public static function loadClassLoader($class)$/;"	f
+loader	.\vendor\composer\ClassLoader.php	/^ *     $loader = new \\Composer\\Autoload\\ClassLoader();$/;"	v
+loader	.\vendor\composer\ClassLoader.php	/^ * ClassLoader implements a PSR-0, PSR-4 and classmap class loader.$/;"	c
+loader	.\vendor\composer\autoload_real.php	/^        self::$loader = $loader = new \\Composer\\Autoload\\ClassLoader();$/;"	v
+loader	.\vendor\composer\autoload_real.php	/^    private static $loader;$/;"	v
+loader	.\wdf.php	/^$loader = require __DIR__ . '\/vendor\/autoload.php';$/;"	v
+logicalPathPsr0	.\vendor\composer\ClassLoader.php	/^            $logicalPathPsr0 = strtr($class, '_', DIRECTORY_SEPARATOR) . $ext;$/;"	v
+logicalPathPsr0	.\vendor\composer\ClassLoader.php	/^            $logicalPathPsr0 = substr($logicalPathPsr4, 0, $pos + 1)$/;"	v
+logicalPathPsr4	.\vendor\composer\ClassLoader.php	/^        $logicalPathPsr4 = strtr($class, '\\\\', DIRECTORY_SEPARATOR) . $ext;$/;"	v
+login	.\wdf.php	/^    public static function login(Account &$account,LoginResponse &$loginresponse) {$/;"	f
+loginPara	.\wdf.php	/^            $loginPara=new LoginResponse();$/;"	v
+lookup	.\vendor\composer\ClassLoader.php	/^     * Should class lookup fail if not found in the current class map?$/;"	c
+map	.\vendor\composer\ClassLoader.php	/^        \/\/ class map lookup$/;"	c
+map	.\vendor\composer\ClassLoader.php	/^     * that have not been registered with the class map.$/;"	c
+map	.\vendor\composer\autoload_real.php	/^        $map = require __DIR__ . '\/autoload_namespaces.php';$/;"	v
+map	.\vendor\composer\autoload_real.php	/^        $map = require __DIR__ . '\/autoload_psr4.php';$/;"	v
+max_redirects	.\vendor\nategood\httpful\src\Httpful\Request.php	/^           $max_redirects           = self::MAX_REDIRECTS_DEFAULT,$/;"	v
+max_redirects	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->max_redirects = $follow === true ? self::MAX_REDIRECTS_DEFAULT : max(0, $follow);$/;"	v
+meta_data	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $this->meta_data    = $meta_data;$/;"	v
+meta_data	.\vendor\nategood\httpful\src\Httpful\Response.php	/^    public function __construct($body, $headers, Request $request, array $meta_data = array())$/;"	v
+method	.\vendor\nategood\httpful\src\Httpful\Request.php	/^            $method = substr($method, 4);$/;"	v
+method	.\vendor\nategood\httpful\src\Httpful\Request.php	/^           $method                  = Http::GET,$/;"	v
+method	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->method = $method;$/;"	v
+method	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function method($method)$/;"	f
+method	.\web\HttpRequest.php	/^        $this->method = $method;$/;"	v
+method	.\web\HttpRequest.php	/^    private $method;$/;"	v
+mime	.\vendor\nategood\httpful\src\Httpful\Bootstrap.php	/^        foreach ($handlers as $mime => $handler) {$/;"	v
+mime	.\vendor\nategood\httpful\src\Httpful\Request.php	/^            $mime = strtolower(substr($method, 5));$/;"	v
+mime	.\vendor\nategood\httpful\src\Httpful\Request.php	/^            $mime = strtolower(substr($method, 7));$/;"	v
+mime	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function mime($mime)$/;"	f
+mime	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function delete($uri, $mime = null)$/;"	v
+mime	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function get($uri, $mime = null)$/;"	v
+mime	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function getQuick($uri, $mime = null)$/;"	v
+mime	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function init($method = null, $mime = null)$/;"	v
+mimeRegistrar	.\vendor\nategood\httpful\src\Httpful\Httpful.php	/^    private static $mimeRegistrar = array();$/;"	v
+mimeType	.\vendor\nategood\httpful\src\Httpful\Request.php	/^            $mimeType = finfo_file($finfo, $file);$/;"	v
+mimeType	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function body($payload, $mimeType = null)$/;"	v
+mimes	.\vendor\nategood\httpful\src\Httpful\Mime.php	/^    public static $mimes = array($/;"	v
+n	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^                $n = "child-{$n}";$/;"	v
+n	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^            $n = $k;$/;"	v
+name	.\vendor\composer\ClassLoader.php	/^            \/\/ PEAR-like class name$/;"	c
+name	.\vendor\composer\ClassLoader.php	/^            \/\/ namespaced class name$/;"	c
+namespace	.\vendor\composer\autoload_real.php	/^        foreach ($map as $namespace => $path) {$/;"	v
+namespace	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^        $this->namespace =      isset($conf['namespace']) ? $conf['namespace'] : '';$/;"	v
+namespace	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^    private $namespace;$/;"	v
+neverSerializePayload	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function neverSerializePayload()$/;"	f
+new	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $new = \\Httpful\\Httpful::get(\\Httpful\\Mime::XML);$/;"	v
+node	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^                $node = $dom->createElement('response');$/;"	v
+node	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^                $node = $dom;$/;"	v
+node	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^    private function _future_serializeAsXml($value, $node = null, $dom = null)$/;"	v
+ntlmAuth	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function ntlmAuth($username, $password)$/;"	f
+objNode	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^            $objNode = $dom->createElement(get_class($value));$/;"	v
+offsetExists	.\vendor\nategood\httpful\src\Httpful\Response\Headers.php	/^    public function offsetExists($offset)$/;"	f
+offsetGet	.\vendor\nategood\httpful\src\Httpful\Response\Headers.php	/^    public function offsetGet($offset)$/;"	f
+offsetSet	.\vendor\nategood\httpful\src\Httpful\Response\Headers.php	/^    public function offsetSet($offset, $value)$/;"	f
+offsetUnset	.\vendor\nategood\httpful\src\Httpful\Response\Headers.php	/^    public function offsetUnset($offset)$/;"	f
+opt	.\web\Client.php	/^    public $opt;$/;"	v
+options	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function options($uri)$/;"	f
+or	.\vendor\composer\ClassLoader.php	/^     * Loads the given class or interface.$/;"	c
+output	.\vendor\nategood\httpful\tests\bootstrap-server.php	/^    $output = array();$/;"	v
+params	.\wdf.php	/^        $params =array($/;"	v
+params	.\wdf.php	/^        $params=array($/;"	v
+params	.\wdf.php	/^        $params=array('BaseRequest'=>$BaseRequest);$/;"	v
+params	.\wdf.php	/^        $params=array('appid'=>"wx782c26e4c19acffb",$/;"	v
+parent_type	.\vendor\nategood\httpful\src\Httpful\Response.php	/^            $this->parent_type = Mime::getFullMime($this->parent_type);$/;"	v
+parent_type	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $this->parent_type = $this->content_type;$/;"	v
+parse	.\vendor\nategood\httpful\examples\override.php	/^    public function parse($body)$/;"	f
+parse	.\vendor\nategood\httpful\src\Httpful\Handlers\CsvHandler.php	/^    public function parse($body)$/;"	f
+parse	.\vendor\nategood\httpful\src\Httpful\Handlers\FormHandler.php	/^    public function parse($body)$/;"	f
+parse	.\vendor\nategood\httpful\src\Httpful\Handlers\JsonHandler.php	/^    public function parse($body)$/;"	f
+parse	.\vendor\nategood\httpful\src\Httpful\Handlers\MimeHandlerAdapter.php	/^    public function parse($body)$/;"	f
+parse	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^    public function parse($body)$/;"	f
+parse	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    public function parse($body)$/;"	f
+parse	.\wdf.php	/^    private static function parse($body,LoginResponse &$loginresponse) {$/;"	f
+parseResponsesWith	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function parseResponsesWith(\\Closure $callback)$/;"	f
+parseWith	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function parseWith(\\Closure $callback)$/;"	f
+parse_callback	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->parse_callback = $callback;$/;"	v
+parse_headers	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $parse_headers = array();$/;"	v
+parse_headers	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $parse_headers = $response->_parseHeaders(self::SAMPLE_MULTI_HEADER);$/;"	v
+parse_headers	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $parse_headers = Response\\Headers::fromString(self::SAMPLE_JSON_HEADER);$/;"	v
+parse_with	.\vendor\nategood\httpful\src\Httpful\Response.php	/^            $parse_with = Httpful::hasParserRegistered($this->content_type)$/;"	v
+parse_with	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $parse_with = $this->request->expected_type;$/;"	v
+parsed	.\vendor\nategood\httpful\src\Httpful\Handlers\CsvHandler.php	/^        $parsed = array();$/;"	v
+parsed	.\vendor\nategood\httpful\src\Httpful\Handlers\FormHandler.php	/^        $parsed = array();$/;"	v
+parsed	.\vendor\nategood\httpful\src\Httpful\Handlers\JsonHandler.php	/^        $parsed = json_decode($body, $this->decode_as_array);$/;"	v
+parsed	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^        $parsed = simplexml_load_string($body, null, $this->libxml_opts, $this->namespace);$/;"	v
+parsers	.\vendor\nategood\httpful\src\Httpful\Response.php	/^    private $parsers;$/;"	v
+parts	.\vendor\nategood\httpful\src\Httpful\Bootstrap.php	/^        $parts      = explode(self::NS_GLUE, $classname);$/;"	v
+parts	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $parts = explode(' ', substr($headers, 0, $end));$/;"	v
+pass_ticket	.\wechat\LoginResponse.php	/^    public $pass_ticket;$/;"	v
+passphrase	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function authenticateWithCert($cert, $key, $passphrase = null, $encoding = 'PEM')$/;"	v
+passphrase	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function clientSideCert($cert, $key, $passphrase = null, $encoding = 'PEM')$/;"	v
+password	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->password = $password;$/;"	v
+password	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $password = 'opensesame';$/;"	v
+patch	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function patch($uri, $payload = null, $mime = null)$/;"	f
+path	.\vendor\nategood\httpful\src\Httpful\Bootstrap.php	/^        $path       = $base . self::DIR_GLUE . implode(self::DIR_GLUE, $parts) . '.php';$/;"	v
+path	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $path = (isset($url['path']) ? $url['path'] : '\/').(isset($url['query']) ? '?'.$url['query'] : '');$/;"	v
+path	.\wdf.php	/^            $path=__DIR__.$path_to_write.'\/'.'wdf.jpg';$/;"	v
+payload	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->payload = $payload;$/;"	v
+payload	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function patch($uri, $payload = null, $mime = null)$/;"	v
+payload	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function post($uri, $payload = null, $mime = null)$/;"	v
+payload	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function put($uri, $payload = null, $mime = null)$/;"	v
+payload	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $payload = $req->payload['index'];$/;"	v
+payload_serializers	.\vendor\nategood\httpful\src\Httpful\Request.php	/^           $payload_serializers     = array();$/;"	v
+pharAutoload	.\vendor\nategood\httpful\src\Httpful\Bootstrap.php	/^    public static function pharAutoload($classname)$/;"	f
+pharInit	.\vendor\nategood\httpful\src\Httpful\Bootstrap.php	/^    public static function pharInit()$/;"	f
+php_major	.\vendor\nategood\httpful\tests\bootstrap-server.php	/^$php_major = floatval(substr($php_version, 0, 3));$/;"	v
+php_version	.\vendor\nategood\httpful\tests\bootstrap-server.php	/^$php_version = phpversion();$/;"	v
+pid	.\vendor\nategood\httpful\tests\bootstrap-server.php	/^    $pid = (int) $output[0];$/;"	v
+pos	.\vendor\composer\ClassLoader.php	/^        if (false !== $pos = strrpos($class, '\\\\')) {$/;"	v
+post	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function post($uri, $payload = null, $mime = null)$/;"	f
+post_fields	.\web\HttpRequest.php	/^        $this->post_fields = $post_fields;$/;"	v
+post_fields	.\web\HttpRequest.php	/^        $this->post_fields = null;$/;"	v
+post_fields	.\web\HttpRequest.php	/^    private $post_fields;$/;"	v
+prefix	.\vendor\composer\ClassLoader.php	/^            foreach ($this->prefixLengthsPsr4[$first] as $prefix => $length) {$/;"	v
+prefix	.\vendor\composer\ClassLoader.php	/^            foreach ($this->prefixesPsr0[$first] as $prefix => $dirs) {$/;"	v
+prefixDirsPsr4	.\vendor\composer\ClassLoader.php	/^    private $prefixDirsPsr4 = array();$/;"	v
+prefixLengthsPsr4	.\vendor\composer\ClassLoader.php	/^    private $prefixLengthsPsr4 = array();$/;"	v
+prefixesPsr0	.\vendor\composer\ClassLoader.php	/^    private $prefixesPsr0 = array();$/;"	v
+prepend	.\vendor\composer\ClassLoader.php	/^    public function add($prefix, $paths, $prepend = false)$/;"	v
+prepend	.\vendor\composer\ClassLoader.php	/^    public function addPsr4($prefix, $paths, $prepend = false)$/;"	v
+prev	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $prev = \\Httpful\\Httpful::get(\\Httpful\\Mime::XML);$/;"	v
+property	.\web\Client.php	/^        foreach($args as $property=>$value)$/;"	v
+proxy_port	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function useProxy($proxy_host, $proxy_port = 80, $auth_type = null, $auth_username = null, $auth_password = null, $proxy_type = Proxy::HTTP)$/;"	v
+proxy_port	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function useSocks4Proxy($proxy_host, $proxy_port = 80, $auth_type = null, $auth_username = null, $auth_password = null)$/;"	v
+proxy_port	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function useSocks5Proxy($proxy_host, $proxy_port = 80, $auth_type = null, $auth_username = null, $auth_password = null)$/;"	v
+proxy_regex	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $proxy_regex = "\/HTTP\\\/1\\.[01] 200 Connection established.*?\\r\\n\\r\\n\/si";$/;"	v
+put	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function put($uri, $payload = null, $mime = null)$/;"	f
+r	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $r = Request::get('http:\/\/example.com\/')$/;"	v
+r	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $r = Request::get('someUrl');$/;"	v
+r	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $r = Request::get('some_other_url');$/;"	v
+r	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $r = Request::init()$/;"	v
+r	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $r = Request::init()->expects('json');$/;"	v
+r	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $r = Request::init()->expectsJson();$/;"	v
+r	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $r = Request::init();$/;"	v
+r	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $r = call_user_func(array('Httpful\\Request', $method), $url);$/;"	v
+r	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^      $r = Request::init();$/;"	v
+raw_body	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $this->raw_body     = $body;$/;"	v
+raw_headers	.\vendor\nategood\httpful\src\Httpful\Request.php	/^           $raw_headers             = '',$/;"	v
+raw_headers	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->raw_headers = "{$this->method} $path HTTP\/1.1\\r\\n";$/;"	v
+raw_headers	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $this->raw_headers  = $headers;$/;"	v
+redirect_url	.\wechat\Account.php	/^    public $redirect_url;$/;"	v
+refl	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^        $refl = new \\ReflectionObject($value);$/;"	v
+register	.\vendor\composer\ClassLoader.php	/^    public function register($prepend = false)$/;"	f
+register	.\vendor\nategood\httpful\src\Httpful\Httpful.php	/^    public static function register($mimeType, \\Httpful\\Handlers\\MimeHandlerAdapter $handler)$/;"	f
+registerHandlers	.\vendor\nategood\httpful\src\Httpful\Bootstrap.php	/^    public static function registerHandlers()$/;"	f
+registerPayloadSerializer	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function registerPayloadSerializer($mime, \\Closure $callback)$/;"	f
+registered	.\vendor\nategood\httpful\src\Httpful\Bootstrap.php	/^    public static $registered = false;$/;"	v
+regx	.\wdf.php	/^            $regx = '\/window.redirect_uri="(\\S+?)";\/';$/;"	v
+regx	.\wdf.php	/^        $regx = '\/window.QRLogin.code = (\\d+); window.QRLogin.uuid = "(\\S+?)"\/';$/;"	v
+regx	.\wdf.php	/^        $regx = '\/window.code=(\\d+);\/';$/;"	v
+req	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $req = Request::init()->sendsAndExpects(Mime::CSV);$/;"	v
+req	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $req = Request::init()->sendsAndExpects(Mime::JSON)->withAutoParsing();$/;"	v
+req	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $req = Request::init()->sendsAndExpects(Mime::JSON)->withoutAutoParsing();$/;"	v
+req	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $req = Request::init()->sendsAndExpects(Mime::JSON);$/;"	v
+req	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $req = Request::init()->sendsAndExpects(Mime::XML);$/;"	v
+req	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $req = Request::init();$/;"	v
+reqXml	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $reqXml = Request::init()->sendsAndExpects(Mime::XML);$/;"	v
+request	.\vendor\nategood\httpful\examples\github.php	/^$request = Request::get($uri)->send();$/;"	v
+request	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $request = new Request();$/;"	v
+request	.\vendor\nategood\httpful\src\Httpful\Response.php	/^        $this->request      = $request;$/;"	v
+request	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $request = Request::init()->sendsAndExpects(Mime::XML);$/;"	v
+request	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $request = Request::init();$/;"	v
+request	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $request = Request::post(HttpfulTest::TEST_URL, $body)->_curlPrep();$/;"	v
+request	.\wdf.php	/^        $request=new HttpRequest($account->redirect_url,HttpRequest::METH_POST);$/;"	v
+request	.\wdf.php	/^        $request=new HttpRequest($url,$method);$/;"	v
+request	.\wdf.php	/^        $request=new HttpRequest($url,HttpRequest::METH_POST);$/;"	v
+request	.\wdf.php	/^    public static function request($api,$url,$headers,$params,$method){$/;"	f
+request	.\web\Client.php	/^    public function request() {$/;"	f
+request	.\web\HttpRequest.php	/^$request=new HttpRequest('https:\/\/www.baidu.com',HttpRequest::METH_GET);$/;"	v
+requestTest	.\vendor\nategood\httpful\tests\Httpful\requestTest.php	/^class requestTest extends \\PHPUnit_Framework_TestCase$/;"	c
+resetIni	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public static function resetIni()$/;"	f
+response	.\vendor\nategood\httpful\examples\freebase.php	/^$response = \\Httpful\\Request::get($uri)$/;"	v
+response	.\vendor\nategood\httpful\examples\showclix.php	/^$response = Request::get($uri)$/;"	v
+response	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $response = $this->buildResponse($result);$/;"	v
+response	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $response = explode("\\r\\n\\r\\n", $result, 2 + $info['redirect_count']);$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $response = new Response("", self::SAMPLE_JSON_HEADER, $req);$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $response = new Response('', "HTTP\/1.1 100 Continue\\r\\n", $req);$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $response = new Response('', "HTTP\/1.1 200 OK\\r\\n", $req);$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $response = new Response('', "HTTP\/1.1 300 Multiple Choices\\r\\n", $req);$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $response = new Response('', "HTTP\/1.1 400 Bad Request\\r\\n", $req);$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $response = new Response('', "HTTP\/1.1 500 Internal Server Error\\r\\n", $req);$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $response = new Response('<xml><name>Nathan<\/name><\/xml>', self::SAMPLE_VENDOR_HEADER, $request);$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $response = new Response('<xml><name>Nathan<\/name><\/xml>',$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $response = new Response(self::SAMPLE_CSV_RESPONSE, self::SAMPLE_CSV_HEADER, $req);$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $response = new Response(self::SAMPLE_JSON_RESPONSE, "HTTP\/1.1 200 OK$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $response = new Response(self::SAMPLE_JSON_RESPONSE, self::SAMPLE_JSON_HEADER, $req);$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $response = new Response(self::SAMPLE_JSON_RESPONSE, self::SAMPLE_MULTI_HEADER, $req);$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $response = new Response(self::SAMPLE_XML_RESPONSE, self::SAMPLE_XML_HEADER, $req);$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        \/\/ $response = new Response(SAMPLE_JSON_RESPONSE, "", $req);$/;"	v
+response	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    \/\/         $response = Request::get(TEST_SERVER . '\/test.json')$/;"	v
+response	.\wdf.php	/^        $response=$request->getResponse();$/;"	v
+response	.\web\Client.php	/^    private $response;$/;"	v
+response	.\web\HttpRequest.php	/^$response=$request->getResponse();$/;"	v
+responseXml	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $responseXml = new Response("", self::SAMPLE_XML_HEADER, $reqXml);$/;"	v
+result	.\vendor\nategood\httpful\src\Httpful\Request.php	/^            $result = preg_replace($proxy_regex, '', $result);$/;"	v
+result	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $result = curl_exec($this->_ch);$/;"	v
+result	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^            $result = $handler->parse('invalid{json');$/;"	v
+run	.\wdf.php	/^    public static function run() {$/;"	f
+safeMethods	.\vendor\nategood\httpful\src\Httpful\Http.php	/^    public static function safeMethods()$/;"	f
+self	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $self = $this;$/;"	v
+send	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function send()$/;"	f
+send	.\web\HttpRequest.php	/^    function send() {$/;"	f
+sendIt	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function sendIt()$/;"	f
+send_callback	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->send_callback = $callback;$/;"	v
+sends	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function sends($mime)$/;"	f
+sendsAndExpects	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function sendsAndExpects($mime)$/;"	f
+sendsAndExpectsType	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function sendsAndExpectsType($mime)$/;"	f
+sendsType	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function sendsType($mime)$/;"	f
+serialize	.\vendor\nategood\httpful\examples\override.php	/^    public function serialize($payload)$/;"	f
+serialize	.\vendor\nategood\httpful\src\Httpful\Handlers\CsvHandler.php	/^    public function serialize($payload)$/;"	f
+serialize	.\vendor\nategood\httpful\src\Httpful\Handlers\FormHandler.php	/^    public function serialize($payload)$/;"	f
+serialize	.\vendor\nategood\httpful\src\Httpful\Handlers\JsonHandler.php	/^    public function serialize($payload)$/;"	f
+serialize	.\vendor\nategood\httpful\src\Httpful\Handlers\MimeHandlerAdapter.php	/^    function serialize($payload)$/;"	f
+serialize	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^    public function serialize($payload)$/;"	f
+serializePayload	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function serializePayload($mode)$/;"	f
+serializePayloadWith	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function serializePayloadWith(\\Closure $callback)$/;"	f
+serialize_clean	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^    public function serialize_clean($payload)$/;"	f
+serialize_node	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^    public function serialize_node(&$xmlw, $node){$/;"	f
+serialize_payload_method	.\vendor\nategood\httpful\src\Httpful\Request.php	/^           $serialize_payload_method = self::SERIALIZE_PAYLOAD_SMART,$/;"	v
+serialize_payload_method	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->serialize_payload_method = $mode;$/;"	v
+serialize_payload_method	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        if (empty($payload) || $this->serialize_payload_method === self::SERIALIZE_PAYLOAD_NEVER)$/;"	v
+serialized	.\vendor\nategood\httpful\examples\override.php	/^        $serialized = '';$/;"	v
+serialized_payload	.\vendor\nategood\httpful\src\Httpful\Request.php	/^            $this->serialized_payload = $this->_serializePayload($this->payload);$/;"	v
+server_logs	.\vendor\nategood\httpful\tests\bootstrap-server.php	/^    $server_logs = file_get_contents(".\/server.log");$/;"	v
+set	.\vendor\composer\ClassLoader.php	/^    public function set($prefix, $paths)$/;"	f
+setClassMapAuthoritative	.\vendor\composer\ClassLoader.php	/^    public function setClassMapAuthoritative($classMapAuthoritative)$/;"	f
+setHeaders	.\web\HttpRequest.php	/^    function setHeaders($headers) {$/;"	f
+setPsr4	.\vendor\composer\ClassLoader.php	/^    public function setPsr4($prefix, $paths)$/;"	f
+setRequestProperty	.\web\HttpRequest.php	/^    function setRequestProperty($method,$para) {$/;"	f
+setUseIncludePath	.\vendor\composer\ClassLoader.php	/^    public function setUseIncludePath($useIncludePath)$/;"	f
+showQRImage	.\wdf.php	/^    public static function showQRImage(Account &$account,$path_to_write) {$/;"	f
+skey	.\wechat\LoginResponse.php	/^    public $skey;$/;"	v
+smartSerializePayload	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function smartSerializePayload()$/;"	f
+strictSSL	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function strictSSL($strict)$/;"	f
+strict_ssl	.\vendor\nategood\httpful\src\Httpful\Request.php	/^           $strict_ssl              = false,$/;"	v
+strict_ssl	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->strict_ssl = $strict;$/;"	v
+strings	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $strings = $sxe->xpath('\/stdClass\/stringProp');$/;"	v
+stripBom	.\vendor\nategood\httpful\src\Httpful\Handlers\MimeHandlerAdapter.php	/^    protected function stripBom($body)$/;"	f
+supportsMimeType	.\vendor\nategood\httpful\src\Httpful\Mime.php	/^    public static function supportsMimeType($short_name)$/;"	f
+sxe	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $sxe = $response->body;$/;"	v
+template	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $template = Request::init()$/;"	v
+testAccept	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testAccept()$/;"	f
+testAttach	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testAttach() {$/;"	f
+testAuthSetup	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testAuthSetup()$/;"	f
+testBeforeSend	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testBeforeSend() {$/;"	f
+testCsvResponseParse	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testCsvResponseParse()$/;"	f
+testCustomAccept	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testCustomAccept()$/;"	f
+testCustomMimeRegistering	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testCustomMimeRegistering()$/;"	f
+testDefaults	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testDefaults()$/;"	f
+testDetectContentType	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testDetectContentType()$/;"	f
+testDetermineLength	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testDetermineLength()$/;"	f
+testDigestAuthSetup	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testDigestAuthSetup()$/;"	f
+testEmptyResponseParse	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testEmptyResponseParse()$/;"	f
+testGet_InvalidURL	.\vendor\nategood\httpful\tests\Httpful\requestTest.php	/^    public function testGet_InvalidURL()$/;"	f
+testHasErrors	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testHasErrors()$/;"	f
+testHasProxyWithProxy	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    public function testHasProxyWithProxy()$/;"	f
+testHasProxyWithoutProxy	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    public function testHasProxyWithoutProxy()$/;"	f
+testIni	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testIni()$/;"	f
+testInit	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testInit()$/;"	f
+testIsUpload	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testIsUpload() {$/;"	f
+testJsonResponseParse	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testJsonResponseParse()$/;"	f
+testLocalServer	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    \/\/ public function testLocalServer()$/;"	f
+testMethods	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testMethods()$/;"	f
+testMissingBodyContentType	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testMissingBodyContentType()$/;"	f
+testMissingContentType	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testMissingContentType()$/;"	f
+testMultiHeaders	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testMultiHeaders()$/;"	f
+testNoAutoParse	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testNoAutoParse()$/;"	f
+testOverrideXmlHandler	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    public function testOverrideXmlHandler()$/;"	f
+testParentType	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testParentType()$/;"	f
+testParseHeaders	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testParseHeaders()$/;"	f
+testParseJSON	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    public function testParseJSON()$/;"	f
+testParsingContentTypeCharset	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testParsingContentTypeCharset()$/;"	f
+testParsingContentTypeUpload	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testParsingContentTypeUpload()$/;"	f
+testRawHeaders	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testRawHeaders()$/;"	f
+testSendsAndExpectsType	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testSendsAndExpectsType()$/;"	f
+testSettingStrictSsl	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testSettingStrictSsl()$/;"	f
+testShortMime	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testShortMime()$/;"	f
+testShorthandMimeDefinition	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    public function testShorthandMimeDefinition()$/;"	f
+testToString	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testToString()$/;"	f
+testUserAgent	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testUserAgent()$/;"	f
+testWhenError	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testWhenError() {$/;"	f
+testXMLResponseParse	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function testXMLResponseParse()$/;"	f
+test_parseCode	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function test_parseCode()$/;"	f
+test_parseHeaders	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^    function test_parseHeaders()$/;"	f
+testsPath	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $testsPath = realpath(dirname(__FILE__) . DIRECTORY_SEPARATOR . '..');$/;"	v
+that	.\vendor\nategood\httpful\src\Httpful\Bootstrap.php	/^ * Bootstrap class that facilitates autoloading.  A naive$/;"	c
+timeout	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->timeout = $timeout;$/;"	v
+timeout	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function timeout($timeout)$/;"	f
+timeoutIn	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function timeoutIn($seconds)$/;"	f
+to	.\vendor\nategood\httpful\src\Httpful\Request.php	/^     * Helper function to set the Content type and Expected as same in$/;"	f
+to	.\vendor\nategood\httpful\src\Httpful\Request.php	/^     * Use a custom function to parse the response.$/;"	f
+toArray	.\vendor\nategood\httpful\src\Httpful\Response\Headers.php	/^    public function toArray()$/;"	f
+under	.\vendor\composer\ClassLoader.php	/^ * the autoloader will first look for the class under the component\/$/;"	c
+unregister	.\vendor\composer\ClassLoader.php	/^    public function unregister()$/;"	f
+uri	.\vendor\nategood\httpful\examples\freebase.php	/^$uri = "https:\/\/www.googleapis.com\/freebase\/v1\/mqlread?query=%7B%22type%22:%22\/music\/artist%22%2C%22name%22:%22The%20Dead%20Weather%22%2C%22album%22:%5B%5D%7D";$/;"	v
+uri	.\vendor\nategood\httpful\examples\github.php	/^$uri = 'https:\/\/github.com\/api\/v2\/xml\/user\/show\/nategood';$/;"	v
+uri	.\vendor\nategood\httpful\examples\showclix.php	/^$uri = "http:\/\/api.showclix.com\/Event\/8175";$/;"	v
+uri	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->uri = $uri;$/;"	v
+uri	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function uri($uri)$/;"	f
+url	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $url = \\parse_url($this->uri);$/;"	v
+url	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^      $url = 'http:\/\/example.com\/';$/;"	v
+url	.\wdf.php	/^        $url = "https:\/\/login.weixin.qq.com\/qrcode\/".$uuid;$/;"	v
+url	.\wdf.php	/^        $url = sprintf($account->base_url.'\/'.$api.'?pass_ticket=%s&skey=%s&r=%d',$loginresponse->pass_ticket,$loginresponse->skey, time());$/;"	v
+url	.\wdf.php	/^        $url = sprintf('https:\/\/login.weixin.qq.com\/cgi-bin\/mmwebwx-bin\/login?tip=%s&uuid=%s&_=%s',1, $uuid, time());$/;"	v
+url	.\wdf.php	/^        $url='https:\/\/login.weixin.qq.com\/jslogin';$/;"	v
+url	.\web\Client.php	/^    public $url;$/;"	v
+url	.\web\HttpRequest.php	/^        $this->url = $url;$/;"	v
+url	.\web\HttpRequest.php	/^    private $url;$/;"	v
+useIncludePath	.\vendor\composer\ClassLoader.php	/^        $this->useIncludePath = $useIncludePath;$/;"	v
+useIncludePath	.\vendor\composer\ClassLoader.php	/^    private $useIncludePath = false;$/;"	v
+useProxy	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function useProxy($proxy_host, $proxy_port = 80, $auth_type = null, $auth_username = null, $auth_password = null, $proxy_type = Proxy::HTTP)$/;"	f
+useSocks4Proxy	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function useSocks4Proxy($proxy_host, $proxy_port = 80, $auth_type = null, $auth_username = null, $auth_password = null)$/;"	f
+useSocks5Proxy	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function useSocks5Proxy($proxy_host, $proxy_port = 80, $auth_type = null, $auth_username = null, $auth_password = null)$/;"	f
+user_agent	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $user_agent = 'User-Agent: Httpful\/' . Httpful::VERSION . ' (cURL\/';$/;"	v
+username	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $this->username = $username;$/;"	v
+username	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^        $username = 'nathan';$/;"	v
+uuid	.\wdf.php	/^        $uuid=$account->uuid;$/;"	v
+uuid	.\wechat\Account.php	/^    public $uuid;$/;"	v
+valid_methods	.\vendor\nategood\httpful\tests\Httpful\HttpfulTest.php	/^      $valid_methods = array('get', 'post', 'delete', 'put', 'options', 'head');$/;"	v
+value	.\vendor\nategood\httpful\src\Httpful\Response.php	/^            $value = trim($raw_value);$/;"	v
+vendorDir	.\vendor\composer\autoload_classmap.php	/^$vendorDir = dirname(dirname(__FILE__));$/;"	v
+vendorDir	.\vendor\composer\autoload_namespaces.php	/^$vendorDir = dirname(dirname(__FILE__));$/;"	v
+vendorDir	.\vendor\composer\autoload_psr4.php	/^$vendorDir = dirname(dirname(__FILE__));$/;"	v
+verifyValue	.\vendor\nategood\httpful\src\Httpful\Request.php	/^        $verifyValue = $this->strict_ssl + 0;$/;"	v
+waitForLogin	.\wdf.php	/^    public static function waitForLogin(Account &$account) {$/;"	f
+wdf	.\wdf.php	/^class wdf {$/;"	c
+webwxgetcontact	.\wdf.php	/^    public static function webwxgetcontact(Account $account,LoginResponse $loginresponse) {$/;"	f
+webwxinit	.\wdf.php	/^    public static function webwxinit(Account $account,LoginResponse $loginresponse) {$/;"	f
+whenError	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function whenError(\\Closure $callback)$/;"	f
+which	.\vendor\nategood\httpful\src\Httpful\Request.php	/^     * tells the class which default values to use.$/;"	c
+withAutoParsing	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function withAutoParsing()$/;"	f
+withStrictSSL	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function withStrictSSL()$/;"	f
+withoutAutoParsing	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function withoutAutoParsing()$/;"	f
+withoutStrictSSL	.\vendor\nategood\httpful\src\Httpful\Request.php	/^    public function withoutStrictSSL()$/;"	f
+wxsid	.\wechat\LoginResponse.php	/^    public $wxsid;$/;"	v
+wxuin	.\wechat\LoginResponse.php	/^    public $wxuin;$/;"	v
+xml	.\vendor\nategood\httpful\src\Httpful\Handlers\XmlHandler.php	/^        $xml = new \\XMLWriter;$/;"	v
