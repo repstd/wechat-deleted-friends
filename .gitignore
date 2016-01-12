@@ -1,9 +1,14 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-
+wdf/data/
 # C extensions
 *.so
+*.swp
+tags
+data/
+wdf/data
+*.log
 
 # Distribution / packaging
 .Python

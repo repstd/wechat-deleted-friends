@@ -6,7 +6,8 @@
         "deleted"
     ],
     "require": {
-    	"nategood/httpful": "*"
+    	"nategood/httpful": "*",
+        "apache/log4php": "2.3.0"
     },
     "autoload": {
         "psr-4": {"wdf\\": ""}
